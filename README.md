@@ -17,15 +17,4 @@ Abre `index.html` en tu navegador. No requiere instalación ni dependencias exte
 - F: entrar o salir de pantalla completa.
 - Botones inferiores: navegación y controles.
 
-## Publicar en GitHub Pages
 
-1. Sube la carpeta al repositorio (con `index.html` en la raíz del repositorio).
-2. Ve a **Settings → Pages**.
-3. Selecciona **Deploy from a branch**, la rama principal y la carpeta `/ (root)`.
-4. Guarda y espera a que GitHub publique el sitio.
-
-Las imágenes de la presentación son ilustraciones mediante emojis y formas CSS; no requieren conexión ni servicios externos.
-
-## Nota académica
-
-Los casos son ejemplos ilustrativos. Para interpretar jurídicamente las obligaciones, consultar el texto oficial y la normativa vigente.
